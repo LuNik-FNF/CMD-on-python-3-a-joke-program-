@@ -1,4 +1,4 @@
-# CMD-on-python-3-a-joke-program-
+# Console on the Python 3 (a joke program)
 This is not a virus, but just a comic analogue of CMD in Python with MORE stripped-down functionality :)
 
 DISCLAIMER: The author of this program does not bear any responsibility for your PC, because the program in the repository is a joke and does not have any viruses.
